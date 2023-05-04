@@ -2,7 +2,7 @@
 
 ## Home page
 
-### Must-Haves
+### Must-Have
 
 > these are necessary for basic usability
 
@@ -59,7 +59,7 @@
 
 ## Features page
 
-### Must-Haves
+### Must-Have
 
 > these are necessary for basic usability
 
@@ -107,7 +107,7 @@
 
 ## Docs page
 
-### Must-Haves
+### Must-Have
 
 > these are necessary for basic usability
 
