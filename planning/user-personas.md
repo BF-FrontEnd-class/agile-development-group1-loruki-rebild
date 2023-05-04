@@ -6,6 +6,8 @@
 
 ### Bio
 
+![James](../img/james.png)
+
 - **James Moriarty**, 35 years old
 
 ### Needs/Goals
@@ -36,6 +38,8 @@
 ## Chief Technology
 
 ### Bio
+
+![Mark](../img/mark.png)
 
 - Mark Lopez, 30 years old
 
