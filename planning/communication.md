@@ -1,26 +1,25 @@
 # Communication
 
-## Group Rules
-
-<!-- any general rules you'd like to set for your group? -->
+## Group Rule
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day      |        How         | The topic of discussion   |
+| -------- | :----------------: | ------------------------- |
+| Thursday | In person and zoom | doing a project on loruki |
+| friday   | via zoom and slack | finish with our project   |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: on demand
+- **Pull Requests**:on demand
+- **GitHub Discussions**on demand
+- **Slack/Discord**: every working hours
+- **Video Calls**:every workig hours
 
 ---
 
@@ -28,17 +27,21 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day       | Monday | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday |
+| --------- | :----: | :-----: | :-------: | :------: | :-----: | :------: | :----: |
+| _Iryna_   |   -    |    -    |     -     |  08-17   | 08 - 17 |    -     |   -    |
+| _Preethi_ |   -    |    -    |     -     |  08-17   | 08 - 17 |    -     |   -    |
+| _Vlad_    |   -    |    -    |     -     |  08-17   | 08 - 17 |    -     |   -    |
+| _Ervin_   |   -    |    -    |     -     |  08-17   | 08 - 17 |    -     |   -    |
+| _Rahwa_   |   -    |    -    |     -     |  08-17   | 08 - 17 |    -     |   -    |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Iryna: _8h_; if necessary more
+- preethi: _8h_; if necessary more
+- Vlad: _8h_;if necessary more
+- Ervin: _8h_;if necessary more
+- Rahwa: _8h_;if necessary more
 
 ## Asking for Help
 
