@@ -1,6 +1,23 @@
 {
   "language": "en",
-  "words": [
+  "words":
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Hornitskyi",
+    "Iryna",
+    "Mamutov",
+    "Nepo",
+    "Rahwakinfe",
+    "Rahwaknife",
+    "Sobetska",
+    "Tapati",
+    "Traversy",
+    "Vladyslav",
+    "loruki",
+    "workig",
+    "Preethi",
+    "Rahwa",
+    "avaliability",
     "HackYourFutureBelgium",
     "HackYourFuture",
     "Nepo",
@@ -15,6 +32,13 @@
     "Verwijs",
     "Todos",
     "Wireframes"
+    "Excalidraw",
+    "Wireframes",
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Preethi",
+    "Todos"
   ],
   "ignorePaths": [
     "node_modules/**",
