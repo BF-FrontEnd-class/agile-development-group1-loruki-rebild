@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![image](./planning/cloud.jpg)
 
 ## Technologies
 
@@ -44,9 +44,20 @@
 
 ## Features List of features ready and Todo for future development
 
--`title` -`navigation bar` -`main` -`content` -`links` -`images`
+Features:
 
-To-do list: -`logo` -`footer` -`contact`
+- `title`
+- `navigation bar`
+- `main`
+- `content`
+- `links`
+- `images`
+
+To-do list:
+
+- `logo`
+- `footer`
+- `contact`
 
 ## Status Project
 
