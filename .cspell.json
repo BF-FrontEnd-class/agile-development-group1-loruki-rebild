@@ -18,6 +18,9 @@
     "Preethi",
     "Rahwa",
     "avaliability",
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
     "wireframe",
     "Ponomarev",
     "Lant",
@@ -28,7 +31,8 @@
     "Bilde",
     "Christiaan",
     "Verwijs",
-    "Preethi"
+    "Preethi",
+    "Todos"
   ],
   "ignorePaths": [
     "node_modules/**",
