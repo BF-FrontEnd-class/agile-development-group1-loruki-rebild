@@ -2,7 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+> Here we can see a design for the project
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
@@ -12,6 +12,7 @@
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+> The scheme made in the Excalidraw
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![design](/assets/design.png) ![Home](/assets/page-home.jpg)
+![Features](/assets/page-features.jpg) ![Docs](/assets/page-docs.jpg)
