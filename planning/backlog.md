@@ -35,10 +35,6 @@
 
   - There is the tutorial for the installation the loruki feature.
 
-- [ ] As a user I can see two buttons for deploying.
-
-  - There are two buttons for deploying.
-
 - [ ] As a user I can see more information about cloud hosting.
 
   - There is information about cloud hosting.
@@ -79,21 +75,21 @@
 
   - There is the description and more information about the features.
 
-- [ ] As a user I can see the logo.
+- [ ] As a user I can see an image.
 
-  - There is the logo.
+  - There is an image.
 
 - [ ] As a user I can see more information about loruki platform.
 
   - There is information about loruki platform.
 
-- [ ] As a user I can see the logo.
+- [ ] As a user I can see an image of computers.
 
-  - There is the logo.
+  - There is am image of computers.
 
-- [ ] As a user I can pictures of offered features.
+- [ ] As a user I can see information about offered features.
 
-  - There are pictures of offered features.
+  - There is information about offered features.
 
 - [ ] As a user I can see copyright information.
 
@@ -123,9 +119,9 @@
 
   - There is navigation bar.
 
-- [ ] As a user I can see description of the page and logo.
+- [ ] As a user I can see description of the page and an image of a document.
 
-  - There is description of the page and logo.
+  - There is description of the page and image of a document.
 
 - [ ] As a user I can see navigation bar.
 
