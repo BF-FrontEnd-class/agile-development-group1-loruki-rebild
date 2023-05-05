@@ -73,7 +73,7 @@ pre {
   margin: 10px;
 }
 
-/* Navbar */
+/* Navbar  */
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
@@ -126,6 +126,7 @@ pre {
 }
 
 /* Stats */
+
 .stats {
   padding-top: 100px;
   animation: slideInFromBottom 1s ease-in;
@@ -135,6 +136,16 @@ pre {
   max-width: 500px;
   margin: auto;
 }
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 /* Cli */
 
 /* Cloud */
@@ -144,7 +155,6 @@ pre {
   background-color: var(--dark-color);
   color: #fff;
 }
-
 
 .bg-primary a,
 .btn-primary a,
@@ -178,5 +188,18 @@ pre {
 /* Animations */
 
 /* Tablets and under */
+
+@media (max-width: 768px) {
+  .grid,
+  .showcase .grid,
+  .stats .grid,
+  .cli .grid,
+  .cloud .grid,
+  .features-main .grid,
+  .docs-main .grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+}
 
 /* Mobile */
