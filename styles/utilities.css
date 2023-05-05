@@ -34,6 +34,15 @@
 
 /* Text sizes */
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
 /* Alert */
 
 .grid-3 {
@@ -50,3 +59,7 @@
 }
 
 /* Padding */
+
+.py-5 {
+  padding: 4rem 0;
+}
