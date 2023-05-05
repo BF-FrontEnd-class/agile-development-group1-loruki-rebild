@@ -17,6 +17,16 @@ body {
   max-width: 500px;
   margin: auto;
 }
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 /* Cli */
 
 /* Cloud */
@@ -30,5 +40,16 @@ body {
 /* Animations */
 
 /* Tablets and under */
-
+@media (max-width: 768px) {
+  .grid,
+  .showcase .grid,
+  .stats .grid,
+  .cli .grid,
+  .cloud .grid,
+  .features-main .grid,
+  .docs-main .grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+}
 /* Mobile */
