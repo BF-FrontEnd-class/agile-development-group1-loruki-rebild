@@ -11,7 +11,6 @@
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features List of features ready and Todo for future development](#features-list-of-features-ready-and-todo-for-future-development)
   - [Status Project](#status-project)
   - [Inspiration Project](#inspiration-project)
   - [Contact](#contact)
@@ -23,8 +22,6 @@
 > websites for individuals. Fill out the form to try a demo of our platform
 
 ## Screenshots
-
-![image](./planning/cloud.jpg)
 
 ## Technologies
 
@@ -42,23 +39,6 @@
 <h3 class="stats-heading text-center my-1"></h3>
 ```
 
-## Features List of features ready and Todo for future development
-
-Features:
-
-- `title`
-- `navigation bar`
-- `main`
-- `content`
-- `links`
-- `images`
-
-To-do list:
-
-- `logo`
-- `footer`
-- `contact`
-
 ## Status Project
 
 \_in progress
@@ -69,11 +49,13 @@ by Traversy media
 
 ## Contact
 
-1. IrynaSobetska
-2. ervinMamutov
-3. VladyslavHornitskyi
-4. Rahwakinfe
-5. PreethiTapati
+| Name                                                          |
+| ------------------------------------------------------------- |
+| [VladyslavHornitskyi](https://github.com/VladyslavHornitskyi) |
+| [IrynaSobetska](https://github.com/IrynaSobetska)             |
+| [ervinMamutov](https://github.com/ervinMamutov)               |
+| [Rahwakinfe](https://github.com/Rahwakinfe)                   |
+| [PreethiTapati](https://github.com/PreethiTapati)             |
 
 ## Instructions for use
 
