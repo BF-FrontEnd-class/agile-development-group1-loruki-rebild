@@ -220,6 +220,10 @@ pre {
   margin: 1rem 0;
 }
 
+.my-2 {
+  margin: 1.5rem 0;
+}
+
 /* Languages */
 .languages .flex {
   flex-wrap: wrap;
