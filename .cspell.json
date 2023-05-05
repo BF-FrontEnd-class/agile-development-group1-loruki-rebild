@@ -38,7 +38,8 @@
     "Christiaan",
     "Verwijs",
     "Todos",
-    "Wireframes"
+    "Wireframes",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
