@@ -26,10 +26,20 @@
   color: var(--secondary-color);
 }
 
+.bg-light,
+.btn-light {
+  background-color: var(--light-color);
+  color: #333;
+}
+
 /* Text colors */
 
 .text-center {
   text-align: center;
+}
+
+.md {
+  font-size: 2rem;
 }
 
 /* Text sizes */
@@ -59,6 +69,10 @@
 }
 
 /* Padding */
+
+.py-3 {
+  padding: 2rem 0;
+}
 
 .py-5 {
   padding: 4rem 0;
