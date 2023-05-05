@@ -1,6 +1,4 @@
-/* stylelint-disable CssSyntaxError */
-/* stylelint-disable CssSyntaxError */
-/* stylelint-disable rule-empty-line-before */
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -43,6 +41,7 @@
   background-color: var(--light-color);
   color: #333;
 }
+/* stylelint-disable-next-line rule-empty-line-before */
 .bg-primary a,
 .btn-primary a,
 .bg-secondary a,
@@ -51,6 +50,7 @@
 .btn-dark a {
   color: #fff;
 }
+/* stylelint-disable-next-line comment-empty-line-before */
 /* Text colors */
 .text-primary {
   color: var(--primary-color);
@@ -76,6 +76,7 @@
 }
 
 /* Alert */
+/* stylelint-disable-next-line no-duplicate-selectors */
 .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -106,6 +107,7 @@
 .py-1 {
   padding: 1rem 0;
 }
+/* stylelint-disable-next-line rule-empty-line-before */
 .py-3 {
   padding: 2rem 0;
 }
@@ -113,6 +115,7 @@
 .py-5 {
   padding: 4rem 0;
 }
+/* stylelint-disable-next-line rule-empty-line-before */
 .p-1 {
   padding: 1rem;
 }
