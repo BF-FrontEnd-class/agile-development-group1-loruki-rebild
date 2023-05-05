@@ -3,8 +3,13 @@
     "development"
   ],
   "hints": {
+<<<<<<< HEAD
     "detect-css-reflows/composite": "off",
     "detect-css-reflows/paint": "off",
     "detect-css-reflows/layout": "off"
+=======
+    "detect-css-reflows/paint": "off",
+    "detect-css-reflows/composite": "off"
+>>>>>>> cbfa6f9ce8bfe02749592ddef9289722ed64a60a
   }
 }
