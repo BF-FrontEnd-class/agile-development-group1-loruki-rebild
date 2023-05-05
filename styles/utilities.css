@@ -1,3 +1,6 @@
+/* stylelint-disable CssSyntaxError */
+/* stylelint-disable CssSyntaxError */
+/* stylelint-disable rule-empty-line-before */
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -40,8 +43,18 @@
   background-color: var(--light-color);
   color: #333;
 }
-
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
+}
 /* Text colors */
+.text-primary {
+  color: var(--primary-color);
+}
 
 .text-center {
   text-align: center;
@@ -63,6 +76,14 @@
 }
 
 /* Alert */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
 
 .grid-3 {
   grid-template-columns: repeat(3, 1fr);
@@ -73,16 +94,25 @@
   margin: 1rem 0;
 }
 
+.my-3 {
+  margin: 2rem 0;
+}
+/* stylelint-disable-next-line rule-empty-line-before */
 .my-4 {
   margin: 3rem 0;
 }
 
 /* Padding */
-
+.py-1 {
+  padding: 1rem 0;
+}
 .py-3 {
   padding: 2rem 0;
 }
 
 .py-5 {
   padding: 4rem 0;
+}
+.p-1 {
+  padding: 1rem;
 }
