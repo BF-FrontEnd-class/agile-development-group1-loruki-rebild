@@ -1,0 +1,25 @@
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 40px;
+}
+
+/* Backgrounds & colored buttons */
+
+/* Text colors */
+
+.text-center {
+  text-align: center;
+}
+
+/* Text sizes */
+
+/* Alert */
+
+/* Margin */
+.my-1 {
+  margin: 1rem 0;
+}
+
+/* Padding */
