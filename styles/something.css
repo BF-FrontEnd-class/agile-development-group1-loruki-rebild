@@ -232,6 +232,11 @@ pre {
 
 /* Docs */
 
+/* Footer */
+.footer .social a {
+  margin: 0 10px;
+}
+
 /* Animations */
 
 /* Tablets and under */
