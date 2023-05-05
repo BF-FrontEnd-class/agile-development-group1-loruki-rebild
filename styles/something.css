@@ -19,7 +19,7 @@ body {
   }
 }
 
-/* Navbar */
+/* Navbar  */
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
@@ -72,6 +72,7 @@ body {
 }
 
 /* Stats */
+
 .stats {
   padding-top: 100px;
   animation: slideInFromBottom 1s ease-in;
@@ -104,6 +105,7 @@ body {
 /* Animations */
 
 /* Tablets and under */
+
 @media (max-width: 768px) {
   .grid,
   .showcase .grid,
@@ -116,4 +118,5 @@ body {
     grid-template-rows: 1fr;
   }
 }
+
 /* Mobile */
