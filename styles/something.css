@@ -21,6 +21,35 @@ body {
 
 /* Cloud */
 
+.bg-dark,
+.btn-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
+}
+/* Text colors */
+.text-dark {
+  color: var(--dark-color);
+}
+
+/* Text sizes */
+.lead {
+  font-size: 20px;
+}
+
+/* Margin */
+.my-1 {
+  margin: 1rem 0;
+}
+
 /* Languages */
 
 /* Features */
