@@ -101,6 +101,13 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
 /* Margin */
 .my-1 {
   margin: 1rem 0;
