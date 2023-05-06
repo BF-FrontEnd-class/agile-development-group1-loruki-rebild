@@ -29,10 +29,28 @@
   border: 1px #fff solid;
 }
 
+.btn:hover {
+  transform: scale(0.98);
+}
+
 /* Backgrounds & colored buttons */
 
-.text-secondary {
-  color: var(--secondary-color);
+.bg-primary,
+.btn-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.bg-secondary,
+.btn-secondary {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+.bg-dark,
+.btn-dark {
+  background-color: var(--dark-color);
+  color: #fff;
 }
 
 .bg-light,
@@ -41,7 +59,22 @@
   color: #333;
 }
 
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
+}
+
 /* Text colors */
+
+.text-secondary {
+  color: var(--secondary-color);
+}
+
+/* Text sizes */
 
 .text-center {
   text-align: center;
