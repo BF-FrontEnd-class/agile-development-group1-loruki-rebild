@@ -6,7 +6,7 @@
 
 ### Bio
 
-![James](../img/james.png)
+![James](../public/james.png)
 
 - **James Moriarty**, 35 years old
 
@@ -39,7 +39,7 @@
 
 ### Bio
 
-![Mark](../img/mark.png)
+![Mark](../public/mark.png)
 
 - Mark Lopez, 30 years old
 
