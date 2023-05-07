@@ -1,10 +1,13 @@
-# Name of project
+# Rebuild Loruki website
 
-> A simple website of Fake cloud hosting.
+> "This is a great website for those looking to store their data in the cloud.
+> The service is of the highest level, providing excellent quality. Why not
+> mention the price? Because the quality is so great, the price won't be a
+> concern."
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Rebuild Loruki website](#rebuild-loruki-website)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -23,11 +26,14 @@
 
 ## Screenshots
 
+![screenshot](public/Loruki-screenshot.png)
+
 ## Technologies
 
 - VSC code
-- HTML
-- CSS
+- HTML5
+- CSS5
+- node v18.13.0
 
 ## Setup
 
@@ -35,17 +41,35 @@
 
 ## Code Examples
 
+HTML
+
 ```html
-<h3 class="stats-heading text-center my-1"></h3>
+<div class="navbar">
+  <div class="container flex">
+    <h1 class="logo"><a href="/index.html">Loruki</a></h1>
+    <nav></nav>
+  </div>
+</div>
+```
+
+CSS
+
+```css
+.showcase {
+  height: 400px;
+  background-color: var(--primary-color);
+  color: #fff;
+  position: relative;
+}
 ```
 
 ## Status Project
 
-\_in progress
+\_done
 
 ## Inspiration Project
 
-by Traversy media
+[Loruki](https://zen-carson-c10c9f.netlify.app/index.html)
 
 ## Contact
 
