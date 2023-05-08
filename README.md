@@ -21,8 +21,8 @@
 
 ## General info
 
-> Deploy web apps of all kinds, from large scale enterprise APIs to static
-> websites for individuals. Fill out the form to try a demo of our platform
+> A cloud hosting platform, the objective is reverse engineering it using agile
+> methodology
 
 ## Screenshots
 
@@ -75,11 +75,11 @@ CSS
 
 | Name                                                          |
 | ------------------------------------------------------------- |
-| [VladyslavHornitskyi](https://github.com/VladyslavHornitskyi) |
-| [IrynaSobetska](https://github.com/IrynaSobetska)             |
 | [ervinMamutov](https://github.com/ervinMamutov)               |
-| [Rahwakinfe](https://github.com/Rahwakinfe)                   |
+| [IrynaSobetska](https://github.com/IrynaSobetska)             |
 | [PreethiTapati](https://github.com/PreethiTapati)             |
+| [Rahwakinfe](https://github.com/Rahwakinfe)                   |
+| [VladyslavHornitskyi](https://github.com/VladyslavHornitskyi) |
 
 ## Instructions for use
 
